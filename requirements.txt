@@ -38,6 +38,6 @@ stevedore==5.2.0
 symengine==0.11.0
 sympy==1.12.1
 typing_extensions==4.12.2
-urllib3==2.2.1
+urllib3==2.2.2
 websocket-client==1.8.0
 zipp==3.19.2
